@@ -1,0 +1,36 @@
+.container-fluid {
+    margin: 0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background: linear-gradient(to bottom, rgba(187, 184, 182, 0.6) 0%, rgba(255, 255, 255, 1) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.corinthia {
+    font-size: 50px;
+    font-family: 'Corinthia', cursive;
+}
+
+.card {
+    padding: 1em;
+    margin: 1em;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.card h5 {
+    font-weight: 700;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: space-around;
+    justify-self: flex-end;
+}
+
+.btn-outline-secondary {
+    border-width: 2px;
+}

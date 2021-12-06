@@ -1,0 +1,20 @@
+.container-fluid {
+    margin: 0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background: linear-gradient(to bottom, rgba(187, 184, 182, 0.6) 0%, rgba(255, 255, 255, 1) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    font-family: "PT Sans", sans serif;
+}
+
+.corinthia {
+    font-size: 50px;
+    font-family: 'Corinthia', cursive;
+}
+
+.btn-outline-secondary {
+    border-width: 3px;
+}
