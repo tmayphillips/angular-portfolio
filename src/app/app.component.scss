@@ -7,3 +7,11 @@
 .nav-item {
     text-align: right;
 }
+
+.btn {
+    box-shadow: 5px 5px 5px darkgray;
+}
+
+.btn:active {
+    box-shadow: inset 0px 0px 5px darkgray;
+}

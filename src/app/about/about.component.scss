@@ -14,6 +14,10 @@
     font-family: 'Corinthia', cursive;
 }
 
-.btn-outline-secondary {
-    border-width: 3px;
+.btn {
+    box-shadow: 5px 5px 5px darkgray;
+}
+
+.btn:active {
+    box-shadow: inset 0px 0px 5px darkgray;
 }

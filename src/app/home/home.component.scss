@@ -42,8 +42,12 @@ header.masthead h1, header.masthead .h1 {
     font-size: 2.25rem;
 }
 
-.btn-outline-secondary {
-    border-width: 3px;
+.btn {
+    box-shadow: 5px 5px 5px darkgray;
+}
+
+.btn:active {
+    box-shadow: inset 0px 0px 5px darkgray;
 }
 
 @media (min-width: 992px) {
